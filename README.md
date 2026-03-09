@@ -5,6 +5,6 @@ I have no previous laboral experience but i wish to become a great Coder. 😄
 
 
 
-- 🧠 I’m currently learning English and programation.
+- 🧠 Im Currently learning Python and english to building small projects to strengthen my logic and problem-solving skills.
 - 🤔 I’m looking for help with programation lenguage.
 - ⚡ Fun fact: Originally i was going to study lenguage.
